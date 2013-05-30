@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PHOENIX8</Machine>
+    <WindowsUser>Dave</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>7DD40B8EA562E32BD7A245889A6A51C26B77D7BB85DA5A57D559700C87239227</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cd357622-57ac-469f-aca8-12fec60bda08_1.0.0.0_neutral__tbz3402trp7yy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cd357622-57ac-469f-aca8-12fec60bda08_tbz3402trp7yy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cd357622-57ac-469f-aca8-12fec60bda08</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Dave</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-30T11:02:41.059</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-05-30T11:02:11.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\css\settings.css">
+      <PackagePath>css\settings.css</PackagePath>
+      <Modified>2013-05-30T11:02:11.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2013-05-30T11:02:11.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\pages\realmstatus\realmstatus.css">
+      <PackagePath>pages\realmstatus\realmstatus.css</PackagePath>
+      <Modified>2013-05-30T11:02:11.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\html\about.html">
+      <PackagePath>html\about.html</PackagePath>
+      <Modified>2013-05-30T11:02:11.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\html\privacy.html">
+      <PackagePath>html\privacy.html</PackagePath>
+      <Modified>2013-05-30T11:02:11.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2013-05-30T11:02:11.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-05-30T11:02:11.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\pages\realmstatus\realmstatus.html">
+      <PackagePath>pages\realmstatus\realmstatus.html</PackagePath>
+      <Modified>2013-05-30T11:02:11.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\images\150x150.scale-100.png">
+      <PackagePath>images\150x150.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-30T11:02:11.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\images\30x30.scale-100.png">
+      <PackagePath>images\30x30.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-30T11:02:11.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\images\50x50.scale-100.png">
+      <PackagePath>images\50x50.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-30T11:02:11.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2013-05-30T11:02:11.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2013-05-30T11:02:11.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <Modified>2013-05-30T11:02:11.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-30T11:02:11.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2013-05-30T11:02:11.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\images\WideLogo.scale-100.png">
+      <PackagePath>images\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-30T11:02:11.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\images\WOWAPILogo.PNG">
+      <PackagePath>images\WOWAPILogo.PNG</PackagePath>
+      <Modified>2013-05-30T11:02:11.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\images\WOWAPILogo.scale-100.png">
+      <PackagePath>images\WOWAPILogo.scale-100.png</PackagePath>
+      <Modified>2013-05-30T11:02:11.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-05-30T11:02:11.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\js\jquery-2.0.0.min.js">
+      <PackagePath>js\jquery-2.0.0.min.js</PackagePath>
+      <Modified>2013-05-30T11:02:11.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-05-30T11:02:11.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\js\wowapi.js">
+      <PackagePath>js\wowapi.js</PackagePath>
+      <Modified>2013-05-30T11:02:11.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2013-05-30T11:02:11.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\pages\realmstatus\realmstatus.js">
+      <PackagePath>pages\realmstatus\realmstatus.js</PackagePath>
+      <Modified>2013-05-30T11:02:11.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\readme.txt">
+      <PackagePath>readme.txt</PackagePath>
+      <Modified>2013-05-30T11:02:11.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dave\Downloads\StarterKits-master %281%29\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-05-30T11:02:40.915</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20602</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20602</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

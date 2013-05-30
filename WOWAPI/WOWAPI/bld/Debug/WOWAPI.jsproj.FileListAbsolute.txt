@@ -1,0 +1,13 @@
+C:\Users\Dave\Downloads\StarterKits-master (1)\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bin\Debug\resources.pri
+C:\Users\Dave\Downloads\StarterKits-master (1)\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bin\Debug\AppxManifest.xml
+C:\Users\Dave\Downloads\StarterKits-master (1)\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bin\Debug\WOWAPI.build.appxrecipe
+C:\Users\Dave\Downloads\StarterKits-master (1)\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bld\Debug\priconfig.xml.intermediate
+C:\Users\Dave\Downloads\StarterKits-master (1)\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bld\Debug\layout.resfiles.intermediate
+C:\Users\Dave\Downloads\StarterKits-master (1)\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bld\Debug\resources.resfiles.intermediate
+C:\Users\Dave\Downloads\StarterKits-master (1)\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bld\Debug\pri.resfiles.intermediate
+C:\Users\Dave\Downloads\StarterKits-master (1)\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bld\Debug\priconfig.xml
+C:\Users\Dave\Downloads\StarterKits-master (1)\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bld\Debug\layout.resfiles
+C:\Users\Dave\Downloads\StarterKits-master (1)\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bld\Debug\resources.resfiles
+C:\Users\Dave\Downloads\StarterKits-master (1)\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bld\Debug\pri.resfiles
+C:\Users\Dave\Downloads\StarterKits-master (1)\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bld\Debug\LanguageQualifiers.txt
+C:\Users\Dave\Downloads\StarterKits-master (1)\StarterKits-master\APIMASH_WorldOfWarcraft_StarterKit\WOWAPI\WOWAPI\bld\Debug\ProjectArchitectures.txt
